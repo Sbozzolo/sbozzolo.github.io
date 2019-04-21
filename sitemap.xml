@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-03-03T11:50:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/gabriele-bozzola/</loc>
+    <lastmod>2019-03-03T11:50:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-03-03T11:50:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/initial_data_charged_black_holes/</loc>
+    <lastmod>2019-03-03T11:50:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-03-03T11:50:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/vasileios-paschalidis/</loc>
+    <lastmod>2019-03-03T11:50:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/andreas-bauswein/</loc>
+    <lastmod>2017-10-20T11:50:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/nikolaos-stergioulas/</loc>
+    <lastmod>2017-10-20T11:50:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/universal_relations/</loc>
+    <lastmod>2017-10-20T11:50:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

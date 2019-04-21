@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vasileios Paschalidis on Gabriele Bozzola&#39;s Homepage</title>
+    <link>/authors/vasileios-paschalidis/</link>
+    <description>Recent content in Vasileios Paschalidis on Gabriele Bozzola&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Gabriele Bozzola</copyright>
+    <lastBuildDate>Sun, 03 Mar 2019 11:50:37 +0200</lastBuildDate>
+    
+	<atom:link href="/authors/vasileios-paschalidis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Initial data for general relativistic simulations of multiple electrically charged black holes with linear and angular momenta</title>
+      <link>/publication/initial_data_charged_black_holes/</link>
+      <pubDate>Sun, 03 Mar 2019 11:50:37 +0200</pubDate>
+      
+      <guid>/publication/initial_data_charged_black_holes/</guid>
+      <description>We apply the Bowen-York formalism to generate initial data for charged black-hole systems.</description>
+    </item>
+    
+  </channel>
+</rss>

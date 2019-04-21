@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Gabriele Bozzola&#39;s Homepage</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Gabriele Bozzola&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Gabriele Bozzola</copyright>
+    <lastBuildDate>Sun, 03 Mar 2019 11:50:37 +0200</lastBuildDate>
+    
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gabriele Bozzola</title>
+      <link>/authors/gabriele-bozzola/</link>
+      <pubDate>Sun, 03 Mar 2019 11:50:37 +0200</pubDate>
+      
+      <guid>/authors/gabriele-bozzola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vasileios Paschalidis</title>
+      <link>/authors/vasileios-paschalidis/</link>
+      <pubDate>Sun, 03 Mar 2019 11:50:37 +0200</pubDate>
+      
+      <guid>/authors/vasileios-paschalidis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andreas Bauswein</title>
+      <link>/authors/andreas-bauswein/</link>
+      <pubDate>Fri, 20 Oct 2017 11:50:37 +0200</pubDate>
+      
+      <guid>/authors/andreas-bauswein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nikolaos Stergioulas</title>
+      <link>/authors/nikolaos-stergioulas/</link>
+      <pubDate>Fri, 20 Oct 2017 11:50:37 +0200</pubDate>
+      
+      <guid>/authors/nikolaos-stergioulas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>admin</title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

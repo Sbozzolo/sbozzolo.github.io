@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriele Bozzola on Gabriele Bozzola&#39;s Homepage</title>
+    <link>/authors/gabriele-bozzola/</link>
+    <description>Recent content in Gabriele Bozzola on Gabriele Bozzola&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Gabriele Bozzola</copyright>
+    <lastBuildDate>Sun, 03 Mar 2019 11:50:37 +0200</lastBuildDate>
+    
+	<atom:link href="/authors/gabriele-bozzola/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Initial data for general relativistic simulations of multiple electrically charged black holes with linear and angular momenta</title>
+      <link>/publication/initial_data_charged_black_holes/</link>
+      <pubDate>Sun, 03 Mar 2019 11:50:37 +0200</pubDate>
+      
+      <guid>/publication/initial_data_charged_black_holes/</guid>
+      <description>We apply the Bowen-York formalism to generate initial data for charged black-hole systems.</description>
+    </item>
+    
+    <item>
+      <title>Universal relations for differentially rotating relativistic stars at the threshold to collapse</title>
+      <link>/publication/universal_relations/</link>
+      <pubDate>Fri, 20 Oct 2017 11:50:37 +0200</pubDate>
+      
+      <guid>/publication/universal_relations/</guid>
+      <description>Turning points of sequences of rotating stars satisfy relations independent on the EOS and the degree of differential rotation.</description>
+    </item>
+    
+  </channel>
+</rss>
