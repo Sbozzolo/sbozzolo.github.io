@@ -4,36 +4,53 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-03-03T11:50:37+02:00</lastmod>
+    <lastmod>2019-05-02T11:50:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/collin-lewin/</loc>
+    <lastmod>2019-05-02T11:50:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/gabriele-bozzola/</loc>
-    <lastmod>2019-03-03T11:50:37+02:00</lastmod>
+    <lastmod>2019-05-02T11:50:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-03-03T11:50:37+02:00</lastmod>
+    <lastmod>2019-05-02T11:50:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/rotating_hybrid_stars/</loc>
+    <lastmod>2019-05-02T11:50:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pedro-espino/</loc>
+    <lastmod>2019-05-02T11:50:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-05-02T11:50:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/vasileios-paschalidis/</loc>
+    <lastmod>2019-05-02T11:50:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/initial_data_charged_black_holes/</loc>
     <lastmod>2019-03-03T11:50:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-03-03T11:50:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/vasileios-paschalidis/</loc>
-    <lastmod>2019-03-03T11:50:37+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

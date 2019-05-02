@@ -7,24 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Gabriele Bozzola</copyright>
-    <lastBuildDate>Sun, 03 Mar 2019 11:50:37 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2019 11:50:37 +0200</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Collin Lewin</title>
+      <link>/authors/collin-lewin/</link>
+      <pubDate>Thu, 02 May 2019 11:50:37 +0200</pubDate>
+      
+      <guid>/authors/collin-lewin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gabriele Bozzola</title>
       <link>/authors/gabriele-bozzola/</link>
-      <pubDate>Sun, 03 Mar 2019 11:50:37 +0200</pubDate>
+      <pubDate>Thu, 02 May 2019 11:50:37 +0200</pubDate>
       
       <guid>/authors/gabriele-bozzola/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Pedro Espino</title>
+      <link>/authors/pedro-espino/</link>
+      <pubDate>Thu, 02 May 2019 11:50:37 +0200</pubDate>
+      
+      <guid>/authors/pedro-espino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Vasileios Paschalidis</title>
       <link>/authors/vasileios-paschalidis/</link>
-      <pubDate>Sun, 03 Mar 2019 11:50:37 +0200</pubDate>
+      <pubDate>Thu, 02 May 2019 11:50:37 +0200</pubDate>
       
       <guid>/authors/vasileios-paschalidis/</guid>
       <description></description>
