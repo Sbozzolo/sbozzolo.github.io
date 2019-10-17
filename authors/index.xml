@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Gabriele Bozzola&#39;s Homepage</title>
+    <title>Authors | Gabriele Bozzola&#39;s Homepage</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on Gabriele Bozzola&#39;s Homepage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Gabriele Bozzola</copyright>
-    <lastBuildDate>Thu, 02 May 2019 11:50:37 +0200</lastBuildDate>
-    
-	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Gabriele Bozzola</copyright><lastBuildDate>Thu, 02 May 2019 11:50:37 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
     
     <item>
       <title>Collin Lewin</title>
       <link>/authors/collin-lewin/</link>
       <pubDate>Thu, 02 May 2019 11:50:37 +0200</pubDate>
-      
       <guid>/authors/collin-lewin/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>Gabriele Bozzola</title>
       <link>/authors/gabriele-bozzola/</link>
       <pubDate>Thu, 02 May 2019 11:50:37 +0200</pubDate>
-      
       <guid>/authors/gabriele-bozzola/</guid>
       <description></description>
     </item>
@@ -34,7 +32,6 @@
       <title>Pedro Espino</title>
       <link>/authors/pedro-espino/</link>
       <pubDate>Thu, 02 May 2019 11:50:37 +0200</pubDate>
-      
       <guid>/authors/pedro-espino/</guid>
       <description></description>
     </item>
@@ -43,7 +40,6 @@
       <title>Vasileios Paschalidis</title>
       <link>/authors/vasileios-paschalidis/</link>
       <pubDate>Thu, 02 May 2019 11:50:37 +0200</pubDate>
-      
       <guid>/authors/vasileios-paschalidis/</guid>
       <description></description>
     </item>
@@ -52,7 +48,6 @@
       <title>Andreas Bauswein</title>
       <link>/authors/andreas-bauswein/</link>
       <pubDate>Fri, 20 Oct 2017 11:50:37 +0200</pubDate>
-      
       <guid>/authors/andreas-bauswein/</guid>
       <description></description>
     </item>
@@ -61,9 +56,29 @@
       <title>Nikolaos Stergioulas</title>
       <link>/authors/nikolaos-stergioulas/</link>
       <pubDate>Fri, 20 Oct 2017 11:50:37 +0200</pubDate>
-      
       <guid>/authors/nikolaos-stergioulas/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a graduate student at the &lt;em&gt;Department of Astronomy and Steward Observatory&lt;/em&gt;
+at The University of Arizona in Tucson (AZ). I work with Vasilis Paschalidis on
+various topics in gravitational physics. In particular, I use and extend the
+&lt;a href=&#34;https://einsteintoolkit.org/&#34; target=&#34;_blank&#34;&gt;Einstein Toolkit&lt;/a&gt; to perform dynamical-spacetime
+simulations of rotating relativistic stars, and of systems with charged black
+holes. Moreover, I live inside &lt;a href=&#34;https://www.gnu.org/software/emacs/&#34; target=&#34;_blank&#34;&gt;GNU Emacs&lt;/a&gt;,
+and my &lt;a href=&#34;https://en.wikipedia.org/wiki/Arthur_Eddington#Eddington_number_for_cycling&#34; target=&#34;_blank&#34;&gt;Eddington
+number&lt;/a&gt;
+is 20 (but I am working on it).&lt;/p&gt;
+
+&lt;p&gt;If you want to know more about me, you can read my &lt;a href=&#34;/doc/cv_bozzola.pdf&#34;&gt;academic curriculum
+vitae&lt;/a&gt; or you can &lt;a href=&#34;mailto:gabrielebozzola@email.arizona.edu&#34; target=&#34;_blank&#34;&gt;send me an
+email&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

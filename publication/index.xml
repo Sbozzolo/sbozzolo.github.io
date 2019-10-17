@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gabriele Bozzola | Gabriele Bozzola&#39;s Homepage</title>
-    <link>/authors/gabriele-bozzola/</link>
-      <atom:link href="/authors/gabriele-bozzola/index.xml" rel="self" type="application/rss+xml" />
-    <description>Gabriele Bozzola</description>
+    <title>Publications | Gabriele Bozzola&#39;s Homepage</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Gabriele Bozzola</copyright><lastBuildDate>Thu, 02 May 2019 11:50:37 +0200</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Gabriele Bozzola</title>
-      <link>/authors/gabriele-bozzola/</link>
+      <title>Publications</title>
+      <link>/publication/</link>
     </image>
     
     <item>

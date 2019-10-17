@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nikolaos Stergioulas on Gabriele Bozzola&#39;s Homepage</title>
+    <title>Nikolaos Stergioulas | Gabriele Bozzola&#39;s Homepage</title>
     <link>/authors/nikolaos-stergioulas/</link>
-    <description>Recent content in Nikolaos Stergioulas on Gabriele Bozzola&#39;s Homepage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Gabriele Bozzola</copyright>
-    <lastBuildDate>Fri, 20 Oct 2017 11:50:37 +0200</lastBuildDate>
-    
-	<atom:link href="/authors/nikolaos-stergioulas/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/nikolaos-stergioulas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nikolaos Stergioulas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Gabriele Bozzola</copyright><lastBuildDate>Fri, 20 Oct 2017 11:50:37 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Nikolaos Stergioulas</title>
+      <link>/authors/nikolaos-stergioulas/</link>
+    </image>
     
     <item>
       <title>Universal relations for differentially rotating relativistic stars at the threshold to collapse</title>
       <link>/publication/universal_relations/</link>
       <pubDate>Fri, 20 Oct 2017 11:50:37 +0200</pubDate>
-      
       <guid>/publication/universal_relations/</guid>
-      <description>Turning points of sequences of rotating stars satisfy relations independent on the EOS and the degree of differential rotation.</description>
+      <description></description>
     </item>
     
   </channel>

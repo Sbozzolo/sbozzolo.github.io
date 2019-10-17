@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>admin on Gabriele Bozzola&#39;s Homepage</title>
+    <title>Gabriele Bozzola&#39;s Homepage</title>
     <link>/authors/admin/</link>
-    <description>Recent content in admin on Gabriele Bozzola&#39;s Homepage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Gabriele Bozzola</copyright>
-    
-	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>/author/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/author/admin/</guid>
-      <description>I am a graduate student at the Department of Astronomy and Steward Observatory at The University of Arizona in Tucson (AZ). I work with Vasilis Paschalidis on various topics in gravitational physics. In particular, I use and extend the Einstein Toolkit to perform dynamical-spacetime simulations of rotating relativistic stars, and of systems with charged black holes. Moreover, I live inside GNU Emacs.
-If you want to know more about me, you can read my academic curriculum vitae or you can send me an email.</description>
-    </item>
+      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gabriele Bozzola&#39;s Homepage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Gabriele Bozzola</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Gabriele Bozzola&#39;s Homepage</title>
+      <link>/authors/admin/</link>
+    </image>
     
   </channel>
 </rss>
