@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Gabriele Bozzola</copyright><lastBuildDate>Thu, 02 May 2019 11:50:37 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Gabriele Bozzola</copyright><lastBuildDate>Thu, 02 May 2019 11:50:37 +0200</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -68,15 +68,14 @@
       <description>&lt;p&gt;I am a graduate student at the &lt;em&gt;Department of Astronomy and Steward Observatory&lt;/em&gt;
 at The University of Arizona in Tucson (AZ). I work with Vasilis Paschalidis on
 various topics in gravitational physics. In particular, I use and extend the
-&lt;a href=&#34;https://einsteintoolkit.org/&#34; target=&#34;_blank&#34;&gt;Einstein Toolkit&lt;/a&gt; to perform dynamical-spacetime
+&lt;a href=&#34;https://einsteintoolkit.org/&#34;&gt;Einstein Toolkit&lt;/a&gt; to perform dynamical-spacetime
 simulations of rotating relativistic stars, and of systems with charged black
-holes. Moreover, I live inside &lt;a href=&#34;https://www.gnu.org/software/emacs/&#34; target=&#34;_blank&#34;&gt;GNU Emacs&lt;/a&gt;,
-and my &lt;a href=&#34;https://en.wikipedia.org/wiki/Arthur_Eddington#Eddington_number_for_cycling&#34; target=&#34;_blank&#34;&gt;Eddington
+holes. Moreover, I live inside &lt;a href=&#34;https://www.gnu.org/software/emacs/&#34;&gt;GNU Emacs&lt;/a&gt;,
+and my &lt;a href=&#34;https://en.wikipedia.org/wiki/Arthur_Eddington#Eddington_number_for_cycling&#34;&gt;Eddington
 number&lt;/a&gt;
-is 20 (but &lt;a href=&#34;img/bike.jpg&#34; target=&#34;_blank&#34;&gt;I am working on it&lt;/a&gt;).&lt;/p&gt;
-
+is 20 (but &lt;a href=&#34;img/bike.jpg&#34;&gt;I am working on it&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;If you want to know more about me, you can read my &lt;a href=&#34;/doc/cv_bozzola.pdf&#34;&gt;academic curriculum
-vitae&lt;/a&gt; or you can &lt;a href=&#34;mailto:gabrielebozzola@email.arizona.edu&#34; target=&#34;_blank&#34;&gt;send me an
+vitae&lt;/a&gt; or you can &lt;a href=&#34;mailto:gabrielebozzola@email.arizona.edu&#34;&gt;send me an
 email&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
