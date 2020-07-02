@@ -7,78 +7,10 @@
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Gabriele Bozzola</copyright><lastBuildDate>Thu, 02 May 2019 11:50:37 +0200</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/images/icon_huc89eb6431d3f8b3cf5a69761560fad17_31925_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
-    
-    <item>
-      <title>Collin Lewin</title>
-      <link>/authors/collin-lewin/</link>
-      <pubDate>Thu, 02 May 2019 11:50:37 +0200</pubDate>
-      <guid>/authors/collin-lewin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gabriele Bozzola</title>
-      <link>/authors/gabriele-bozzola/</link>
-      <pubDate>Thu, 02 May 2019 11:50:37 +0200</pubDate>
-      <guid>/authors/gabriele-bozzola/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pedro Espino</title>
-      <link>/authors/pedro-espino/</link>
-      <pubDate>Thu, 02 May 2019 11:50:37 +0200</pubDate>
-      <guid>/authors/pedro-espino/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vasileios Paschalidis</title>
-      <link>/authors/vasileios-paschalidis/</link>
-      <pubDate>Thu, 02 May 2019 11:50:37 +0200</pubDate>
-      <guid>/authors/vasileios-paschalidis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Andreas Bauswein</title>
-      <link>/authors/andreas-bauswein/</link>
-      <pubDate>Fri, 20 Oct 2017 11:50:37 +0200</pubDate>
-      <guid>/authors/andreas-bauswein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nikolaos Stergioulas</title>
-      <link>/authors/nikolaos-stergioulas/</link>
-      <pubDate>Fri, 20 Oct 2017 11:50:37 +0200</pubDate>
-      <guid>/authors/nikolaos-stergioulas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am a graduate student at the &lt;em&gt;Department of Astronomy and Steward Observatory&lt;/em&gt;
-at The University of Arizona in Tucson (AZ). I work with Vasilis Paschalidis on
-various topics in gravitational physics. In particular, I use and extend the
-&lt;a href=&#34;https://einsteintoolkit.org/&#34;&gt;Einstein Toolkit&lt;/a&gt; to perform dynamical-spacetime
-simulations of rotating relativistic stars, and of systems with charged black
-holes. Moreover, I live inside &lt;a href=&#34;https://www.gnu.org/software/emacs/&#34;&gt;GNU Emacs&lt;/a&gt;,
-and my &lt;a href=&#34;https://en.wikipedia.org/wiki/Arthur_Eddington#Eddington_number_for_cycling&#34;&gt;Eddington
-number&lt;/a&gt;
-is 22 (but &lt;a href=&#34;img/bike.jpg&#34;&gt;I am working on it&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;If you want to know more about me, you can read my &lt;a href=&#34;/doc/cv_bozzola.pdf&#34;&gt;academic curriculum
-vitae&lt;/a&gt; or you can &lt;a href=&#34;mailto:gabrielebozzola@arizona.edu&#34;&gt;send me an
-email&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
