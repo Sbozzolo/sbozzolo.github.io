@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Gabriele Bozzola</copyright><lastBuildDate>Thu, 02 May 2019 11:50:37 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Gabriele Bozzola</copyright><lastBuildDate>Tue, 30 Jun 2020 11:50:37 +0200</lastBuildDate>
     <image>
       <url>/images/icon_huc89eb6431d3f8b3cf5a69761560fad17_31925_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>General relativistic simulations of the quasi-circular inspiral and merger of charged black holes: GW150914 and fundamental physics implications</title>
+      <link>/publication/constraint_charge_gw150914/</link>
+      <pubDate>Tue, 30 Jun 2020 11:50:37 +0200</pubDate>
+      <guid>/publication/constraint_charge_gw150914/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Maximum mass and universal relations of rotating relativistic hybrid hadron-quark stars</title>
