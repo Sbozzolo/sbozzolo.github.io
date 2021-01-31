@@ -3,120 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-06-30T11:50:37+02:00</lastmod>
+    <loc>https://sbozzolo.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>/author/gabriele-bozzola/</loc>
-    <lastmod>2020-06-30T11:50:37+02:00</lastmod>
+    <loc>https://sbozzolo.github.io/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-06-30T11:50:37+02:00</lastmod>
+    <loc>https://sbozzolo.github.io/about_fun/</loc>
   </url>
   
   <url>
-    <loc>/publication/constraint_charge_gw150914/</loc>
-    <lastmod>2020-06-30T11:50:37+02:00</lastmod>
+    <loc>https://sbozzolo.github.io/publications/</loc>
   </url>
   
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-06-30T11:50:37+02:00</lastmod>
+    <loc>https://sbozzolo.github.io/research/</loc>
   </url>
   
   <url>
-    <loc>/author/vasileios-paschalidis/</loc>
-    <lastmod>2020-06-30T11:50:37+02:00</lastmod>
+    <loc>https://sbozzolo.github.io/research_general/</loc>
   </url>
   
   <url>
-    <loc>/author/collin-lewin/</loc>
-    <lastmod>2019-05-02T11:50:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/rotating_hybrid_stars/</loc>
-    <lastmod>2019-05-02T11:50:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/pedro-espino/</loc>
-    <lastmod>2019-05-02T11:50:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/initial_data_charged_black_holes/</loc>
-    <lastmod>2019-03-03T11:50:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/andreas-bauswein/</loc>
-    <lastmod>2017-10-20T11:50:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/nikolaos-stergioulas/</loc>
-    <lastmod>2017-10-20T11:50:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/universal_relations/</loc>
-    <lastmod>2017-10-20T11:50:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/emacs/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/emacs-libvterm/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/ivy-emoji/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/kuibit/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/motionpicture/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/science/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/gabriele-bozzola/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
+    <loc>https://sbozzolo.github.io/software/</loc>
   </url>
   
 </urlset>

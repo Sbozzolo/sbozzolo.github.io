@@ -1,33 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gabriele Bozzola&#39;s Homepage</title>
-    <link>/</link>
-    <description>Recent content on Gabriele Bozzola&#39;s Homepage</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2020 Gabriele Bozzola</copyright>
-    <lastBuildDate>Tue, 30 Jun 2020 11:50:37 +0200</lastBuildDate>
-    
-	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <title>Gabriele Bozzola&#39;s homepage on Gabriele Bozzola</title>
+    <link>https://sbozzolo.github.io/</link>
+    <description>Recent content in Gabriele Bozzola&#39;s homepage on Gabriele Bozzola</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://sbozzolo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Tue, 30 Jun 2020 11:50:37 +0200</pubDate>
+      <title>Gabriele Bozzola&#39;s homepage</title>
+      <link>https://sbozzolo.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publication/</guid>
-      <description></description>
+      <guid>https://sbozzolo.github.io/about/</guid>
+      <description>About me  I am a PhD candidate and Frontera fellow at the Astronomy Department at The University of Arizona in Tucson (AZ). I work with Vasilis Paschalidis on various topics in gravitational physics. I use and extend the Einstein Toolkit to perform dynamical-spacetime simulations. You can find more details about me in the More about me page, and more about what I do in my Research page.
+Quick links Email me, my resume, my publications, kuibit</description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>More about me</title>
+      <link>https://sbozzolo.github.io/about_fun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project/</guid>
-      <description></description>
+      <guid>https://sbozzolo.github.io/about_fun/</guid>
+      <description>More about me Life is not all about numerical simulations and data analysis. In this page, I collect some additional information about me that will help you understand better who I am.
+I am a fan of&amp;hellip; (in no particular order)
+National Parks I have the luck to live in a place that offers endless opportunities to enjoy the outdoors, so my favorite weekend activities are hiking and cycling. When I have a little bit more time, I love to explore the stunning National Parks and Forests that are in Arizona and in the South West.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://sbozzolo.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sbozzolo.github.io/publications/</guid>
+      <description>Peer-reviewed publications In chronological order (first is most recent). BibTeX files follow Inspire&amp;rsquo;s format.
+ G. Bozzola, V. Paschalidis. General relativistic simulations of the quasi-circular inspiral and merger of charged black holes: GW150914 and fundamental physics implications. 2021, PRL. 126, 041103 (arXiv, BibTeX) G. Bozzola, P. Espino, C. Lewin, V. Paschalidis. Maximum mass, solution space and universal relations of rotating relativistic hadron-quark hybrid stars. 2019, EPJA A 55 9, 149 (arXiv, BibTeX) G.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://sbozzolo.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sbozzolo.github.io/research/</guid>
+      <description>The intended audience of this page are specialists. You can find the version for the general public here.
+Charged black holes Einstein-Maxwell’s theory is the most fundamental description of electromagnetism and gravity, and several far-reaching results on black holes were found in this context. However, since astrophysically-relevant black holes are believed to have negligible electric charge, the theory has been mostly confined within the realm of theoretical investigation. Consequently, interacting charged black holes represent a largely unexplored territory.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://sbozzolo.github.io/research_general/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sbozzolo.github.io/research_general/</guid>
+      <description>The intended audience of this page is the general public. You can find the version for specialists here.
+Numerical relativity General relativity is one of the most famous and well-established physical theories. The first formulation is due to Albert Einstein and it is more than 100 years old. Despite the age, it was only with the advent of computers that scientists managed to unlock some of the most ground-braking predict sons of the theory, such as detailed models for gravitational waves.</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://sbozzolo.github.io/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sbozzolo.github.io/software/</guid>
+      <description>Scientific codes kuibit kuibit is my biggest project to date. It is a Python library to analyze simulations performed with the Einstein Toolkit. The package takes care of all the low-level details and removes most of the friction in studying simulation outputs.
+motionpicture motionpicture is a tool that simplifies making movies with Python. If you know how to make one frame, with motionpicture you get the entire movie for free. The package supports a plug-in system, so you can easily make movies via command-line.</description>
     </item>
     
   </channel>
