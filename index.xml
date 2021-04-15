@@ -6,6 +6,18 @@
     <description>Recent content in Gabriele Bozzola&#39;s homepage on Gabriele Bozzola</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://sbozzolo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Compelling reasons to publicly release good scientific software</title>
+      <link>https://sbozzolo.github.io/why_release_good_software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sbozzolo.github.io/why_release_good_software/</guid>
+      <description>Publicly release
+ It is an incentive to produce high-quality software and research You get a lot of free debugging (by the people that use your code) Other people can implement bug fixes/features. It empowers other people to do things they could not do otherwise  Good software
+  In the long run, it saves your time
+  It saves hundreds of person-hours (And bad quality software wastes hundreds of person-hours)</description>
+    </item>
+    
+    <item>
       <title>Gabriele Bozzola&#39;s homepage</title>
       <link>https://sbozzolo.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -33,7 +45,7 @@ National Parks I have the luck to live in a place that offers endless opportunit
       
       <guid>https://sbozzolo.github.io/publications/</guid>
       <description>Peer-reviewed publications In chronological order (first is most recent). BibTeX files follow Inspire&amp;rsquo;s format.
- G. Bozzola, V. Paschalidis. General relativistic simulations of the quasi-circular inspiral and merger of charged black holes: GW150914 and fundamental physics implications. 2021, PRL. 126, 041103 (arXiv, BibTeX) G. Bozzola, P. Espino, C. Lewin, V. Paschalidis. Maximum mass, solution space and universal relations of rotating relativistic hadron-quark hybrid stars. 2019, EPJA A 55 9, 149 (arXiv, BibTeX) G.</description>
+ G. Bozzola, V. Paschalidis. Numerical-relativity simulations of the quasi-circular inspiral and merger of non-spinning, charged black holes: methods and comparison with approximate approaches. 2021, Submitted to PRD (arXiv, BibTeX) G. Bozzola. kuibit: Analyzing Einstein Toolkit simulations with Python. 2021, JOSS \textbf{60}(6), 3099 (arXiv, BibTeX) G. Bozzola, V. Paschalidis. General relativistic simulations of the quasi-circular inspiral and merger of charged black holes: GW150914 and fundamental physics implications.</description>
     </item>
     
     <item>
