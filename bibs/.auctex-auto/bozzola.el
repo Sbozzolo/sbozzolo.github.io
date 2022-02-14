@@ -7,6 +7,7 @@
     "Bozzola:2019tit"
     "Bozzola:2020mjx"
     "Bozzola:2021hus"
-    "Bozzola:2021elc"))
+    "Bozzola:2021elc"
+    "Bozzola:2022uqu"))
  :bibtex)
 
