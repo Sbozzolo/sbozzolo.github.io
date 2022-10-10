@@ -10,6 +10,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
     
     <link rel="stylesheet" href="/sass/researcher.min.css">
@@ -20,6 +21,8 @@
 
     
         
+    
+
     
 </head>
 
@@ -59,52 +62,99 @@
 <hr>
 <div id="content">
 <div class="container">
-    <p>The intended audience of this page is the general public. You can find the
+    <style>
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+figure {
+    display: table;
+}
+
+figcaption {
+  font-size: 14px;
+  font-style: italic;
+  text-align: center;
+  display: table-caption;
+  caption-side: bottom;
+}
+</style>
+<p>The intended audience of this page is the general public. You can find the
 version for specialists <a href="../research">here</a>.</p>
 <h2 id="numerical-relativity">Numerical relativity</h2>
 <p>General relativity is one of the most famous and well-established physical
 theories. The first formulation is due to Albert Einstein and it is more than
-100 years old. Despite the age, it was only with the advent of computers
-that scientists managed to unlock some of the most ground-braking predict
-sons of
-the theory, such as detailed models for gravitational waves. However, putting
-general relativity on a computer was not an easy task and an entire new branch
-of physics was born in the effort. I am specializing in this field, known as
-<em>numerical relativity</em>. Today, we can perform successful numerical-relativity
-simulations of several different systems. I focus on two of these:
-charged black holes, and neutron stars.</p>
+100 years old. Despite the age, it was only with the advent of computers that
+scientists managed to unlock some of the most ground-braking predictions of the
+theory, such as detailed models for gravitational waves. Putting general
+relativity on a computer was no easy task and an entire new branch of physics
+was born in the effort. I specialize in this field, known as <em>numerical
+relativity</em>. Today, we can perform successful numerical-relativity simulations
+of several different systems and build models that guide and explain
+astronomical observations. In my research, I apply numerical-relativity
+techniques to study binary systems, and I extend our computational and
+theoretical methods for numerical relativity in general.</p>
+<figure class="right">
+    <img style="margin: 2px; margin-top: 25px; " src="../media/charged.png" width="200">
+    <figcaption>Electric field of the remnant left by a binary black hole merger</figcaption>
+</figure>
 <h3 id="charged-black-holes">Charged black holes</h3>
 <p>General relativity is a rich theory and there is still a lot to be understood.
 One of the areas that is poorly explored is the nonlinear interaction between
 extreme gravitational and electromagnetic fields. Here, with &rsquo;nonlinear&rsquo; we
 essentially mean &lsquo;so complicated that only computers can do it&rsquo;. These studies
-can help us shed more light on some fundamental properties of the Universe.</p>
+can help us shed more light on some fundamental properties of the Universe and
+how our theories behave under the most extreme conditions.</p>
+<h3 id="accretion-onto-binary-black-holes">Accretion onto binary black holes</h3>
+<figure class="left">
+    <img style="margin: 2px; margin-top: 25px; margin-right: 15px;" src="../media/accretion_binary.png" width="250">
+    <figcaption>Merger of black holes surrounded by hot gas</figcaption>
+</figure>
+<p>In 2015, the scientific community detected for the first time gravitational
+waves, ripple in the spacetime that are caused by mergers of black holes.
+Gravitational waves allow us to look at the universe in a completely new way,
+enabling leap in our scientific knowledge. Binary black holes surrounded by a
+very hot gas constitute a prime target for gravitational-wave searches. These
+systems are particularly interesting because they can also be detected with
+traditional telescopes, enabling what is known as <em>multimessenger astronomy</em>. I
+simulate binary black holes near merger to develop theoretical models to explain
+and interpret astronomical observations.</p>
 <h3 id="neutron-stars">Neutron stars</h3>
+<figure class="right">
+    <img style="margin: 2px;" src="../media/hybrid_star.png" width="200">
+    <figcaption>Special neutron star with a quark core</figcaption>
+</figure>
 <p>One of the possible endpoints of the life of a star is to explode and leave
 behind a remnant of the size of a small city. These objects are known as
 <em>neutron stars</em> and are incredibly different compared to anything we can find of
-Earth. Scientists are so interested in neutron stars because they are unique
-laboratories where we can test our theories, expanding the boundaries of what we
-know. In my research, I focus on a rotating neutron stars and their special
-properties.</p>
+Earth. Scientists are extremely interested in neutron stars because they are
+unique laboratories where we can test our theories, expanding the boundaries of
+what we know. In my research, I focus on a rotating neutron stars and their
+special properties, and on stars with a <em>quark</em> core (a core made only by the
+most fundamental particles that we currently know of).</p>
 <h2 id="high-performance-computing-and-software-development">High-performance computing and software development</h2>
-<p>Numerical-relativity simulations must be run on the world powerful computers and
-take months to complete. Therefore, improving the performance of our software
-just by a little bit can result in a lot of time saved. To this end, I am an
-expert in producing high-quality and high-performance code and I am always
-interested in improving our computational tools.</p>
+<p>Numerical relativity is a field driven by data and code. Therefore, software and
+algorithm development is an important part of my work. I am deeply interested in
+improving the computational tools of my community, so I am develop high-quality
+public code that anyone can use and expand upon.</p>
 
 </div>
 
         </div><div id="footer" class="mb-5">
     <hr>
+    
     <div class="container text-center">
         
-            <a href="mailto:gabrielebozzola@email.arizona.edu" class="fas fa-envelope fa-1x" title="E-mail"></a>
+            <a href="mailto:gabrielebozzola@arizona.edu" class="fas fa-envelope fa-1x" title="E-mail"></a>
         
             <a href="https://github.com/Sbozzolo" class="fab fa-github fa-1x" title="GitHub"></a>
         
     </div>
+    
     
         <div class="container text-center">
             <a href="https://sbozzolo.github.io" title="Copyright (c) 2019-2022, Gabriele Bozzola. Website theme (hugo-researcher) developed by Olivier Roques."><small>Copyright (c) 2019-2022, Gabriele Bozzola. Website theme (hugo-researcher) developed by Olivier Roques.</small></a>
