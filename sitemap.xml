@@ -1,23 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://sbozzolo.github.io/why_release_good_software/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sbozzolo.github.io/about/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sbozzolo.github.io/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sbozzolo.github.io/about_fun/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sbozzolo.github.io/publications/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sbozzolo.github.io/research/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sbozzolo.github.io/research_general/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sbozzolo.github.io/resume/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sbozzolo.github.io/software/</loc>
   </url>
+  
 </urlset>
