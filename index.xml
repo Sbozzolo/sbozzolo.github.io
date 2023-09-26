@@ -4,7 +4,8 @@
     <title>Gabriele Bozzola&#39;s homepage on Gabriele Bozzola</title>
     <link>https://sbozzolo.github.io/</link>
     <description>Recent content in Gabriele Bozzola&#39;s homepage on Gabriele Bozzola</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://sbozzolo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://sbozzolo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Compelling reasons to publicly release good scientific software</title>
       <link>https://sbozzolo.github.io/why_release_good_software/</link>
@@ -22,7 +23,8 @@ It is an incentive to produce high-quality software and research You get a lot o
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sbozzolo.github.io/about/</guid>
-      <description>About me I recently defended my PhD in computational astrophysics at the Astronomy Department at The University of Arizona in Tucson (AZ), where I was a NASA Future Investigator for Space Sciences. I worked with Vasilis Paschalidis on various topics in gravitational physics. I used and extended the Einstein Toolkit to perform dynamical-spacetime simulations. You can find more details about me in the More about me page, and more about what I do in my Research page.</description>
+      <description>About me I am a (Scientific) Software Engineer for the CliMA project at Caltech in Pasadena (CA). At CliMA, we develop robust and accurate open-source models for climate modeling in Julia.
+Before taking this role, I completed my PhD in computational astrophysics at the Astronomy Department at The University of Arizona in Tucson (AZ), where I was a NASA Future Investigator for Space Sciences. I worked with Vasilis Paschalidis on various topics in gravitational physics.</description>
     </item>
     
     <item>
@@ -72,10 +74,7 @@ Numerical relativity General relativity is one of the most famous and well-estab
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sbozzolo.github.io/resume/</guid>
-      <description>INTERESTS Numerical relativity, strong gravity, black holes, neutron stars, accretion disks, high-performance computing, software engineering, open source software, open science, community and inclusion.
-EDUCATION 2018&amp;ndash;2023 University of Arizona &amp;mdash; MSc and PhD in Astronomy and Astrophysics (GPA:4/4, Advisor: Prof. Vasileios Paschalidis, PhD defense: April 2023)
-2015&amp;ndash;2017 University of Milan &amp;mdash; Master in Physics (cum laude, GPA:30/30, Advisor: Prof. Nikolaos Stergioulas)
-2012&amp;ndash;2015 University of Milan &amp;mdash; Bachelor in Physics (cum laude, GPA:29.</description>
+      <description></description>
     </item>
     
     <item>
