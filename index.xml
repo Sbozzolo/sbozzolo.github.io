@@ -4,8 +4,7 @@
     <title>Gabriele Bozzola&#39;s homepage on Gabriele Bozzola</title>
     <link>https://sbozzolo.github.io/</link>
     <description>Recent content in Gabriele Bozzola&#39;s homepage on Gabriele Bozzola</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://sbozzolo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://sbozzolo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Compelling reasons to publicly release good scientific software</title>
       <link>https://sbozzolo.github.io/why_release_good_software/</link>
@@ -23,8 +22,8 @@ It is an incentive to produce high-quality software and research You get a lot o
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sbozzolo.github.io/about/</guid>
-      <description>About me I am a (Scientific) Software Engineer for the CliMA project at Caltech in Pasadena (CA). At CliMA, we develop robust and accurate open-source models for climate modeling in Julia.
-Before taking this role, I completed my PhD in computational astrophysics at the Astronomy Department at The University of Arizona in Tucson (AZ), where I was a NASA Future Investigator for Space Sciences. I worked with Vasilis Paschalidis on various topics in gravitational physics.</description>
+      <description>About me I am a (Scientific) Software Engineer for the CliMA project at Caltech in Pasadena (CA). At CliMA, we develop robust and accurate open-source models for climate modeling in Julia. I design and implement reliable and user-friendly software solutions to empower researchers to push the state-of-the-art in climate modeling.
+Before taking this role, I completed my PhD in computational astrophysics at the Astronomy Department at The University of Arizona in Tucson (AZ), where I was a NASA Future Investigator for Space Sciences.</description>
     </item>
     
     <item>
@@ -45,7 +44,7 @@ National Parks I have the luck to live in a place that offers endless opportunit
       
       <guid>https://sbozzolo.github.io/publications/</guid>
       <description>Peer-reviewed publications In chronological order (first is most recent).
-R. Luna, G. Bozzola, V. Cardoso, V. Paschalidis, M. Zilhão, 2022, PRD 106, 8, 084017 (arxiv) G. Bozzola, C. Chan, V. Paschalidis. Black Hole Physics and Computer Graphics. 2022, CISE 24, 2 G. Bozzola. Does charge matter in high-energy collisions of black holes?. 2022, PRL 128, 071101 (arXiv) G. Bozzola, V. Paschalidis. Numerical-relativity simulations of the quasi-circular inspiral and merger of non-spinning, charged black holes: methods and comparison with approximate approaches.</description>
+G. Bozzola, C. Chan, V. Paschalidis. Not all spacetime coordinates for general-relativistic ray tracing are created equal. 2023, PRD 108, 8, 084004 (arxiv) G. Bozzola, V. Paschalidis. Can quasi-circular mergers of charged black holes produce extremal black holes?. 2023, PRD 107, 104059 (arxiv) P.\ Espino, G. Bozzola, V.\ Paschalidis, 2023, PRD 107, 104059 (arxiv) R. Luna, G. Bozzola, V. Cardoso, V. Paschalidis, M.</description>
     </item>
     
     <item>
