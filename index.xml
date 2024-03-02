@@ -4,91 +4,64 @@
     <title>Gabriele Bozzola&#39;s homepage on Gabriele Bozzola</title>
     <link>https://sbozzolo.github.io/</link>
     <description>Recent content in Gabriele Bozzola&#39;s homepage on Gabriele Bozzola</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://sbozzolo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://sbozzolo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Compelling reasons to publicly release good scientific software</title>
       <link>https://sbozzolo.github.io/why_release_good_software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sbozzolo.github.io/why_release_good_software/</guid>
-      <description>I spend a significant fraction of my time developing scientific software or using codes built by other people. Over the years, I came to the realization that are compelling reasons to write good scientific software and release it publicly. I am going to list them here, and take this as a personal manifesto of how I would like to produce software for science.
-Publicly release
-It is an incentive to produce high-quality software and research You get a lot of free debugging (by the people that use your code) Other people can implement bug fixes/features.</description>
+      <description>I spend a significant fraction of my time developing scientific software or using codes built by other people. Over the years, I came to the realization that are compelling reasons to write good scientific software and release it publicly. I am going to list them here, and take this as a personal manifesto of how I would like to produce software for science.&#xA;Publicly release&#xA;It is an incentive to produce high-quality software and research You get a lot of free debugging (by the people that use your code) Other people can implement bug fixes/features.</description>
     </item>
-    
     <item>
       <title>Gabriele Bozzola&#39;s homepage</title>
       <link>https://sbozzolo.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sbozzolo.github.io/about/</guid>
-      <description>About me I am a (Scientific) Software Engineer for the CliMA project at Caltech in Pasadena (CA). At CliMA, we develop robust and accurate open-source models for climate modeling in Julia. I design and implement reliable and user-friendly software solutions to empower researchers to push the state-of-the-art in climate modeling.
-Before taking this role, I completed my PhD in computational astrophysics at the Astronomy Department at The University of Arizona in Tucson (AZ), where I was a NASA Future Investigator for Space Sciences.</description>
+      <description>About me I am a (Scientific) Software Engineer for the CliMA project at Caltech in Pasadena (CA). At CliMA, we develop robust and accurate open-source models for climate modeling in Julia. I design and implement reliable and user-friendly software solutions to empower researchers to push the state-of-the-art in climate modeling.&#xA;Before taking this role, I completed my PhD in computational astrophysics at the Astronomy Department at The University of Arizona in Tucson (AZ), where I was a NASA Future Investigator for Space Sciences.</description>
     </item>
-    
     <item>
       <title>More about me</title>
       <link>https://sbozzolo.github.io/about_fun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sbozzolo.github.io/about_fun/</guid>
-      <description>More about me Life is not all about numerical simulations and data analysis. In this page, I collect some additional information about me that will help you understand better who I am.
-I am a fan of&amp;hellip; (in no particular order)
-National Parks I have the luck to live in a place that offers endless opportunities to enjoy the outdoors, so my favorite weekend activities are hiking and cycling. When I have a little bit more time, I love exploring the stunning National Parks and Forests that are in Arizona and in the South West.</description>
+      <description>More about me Life is not all about numerical simulations and data analysis. In this page, I collect some additional information about me that will help you understand better who I am.&#xA;I am a fan of&amp;hellip; (in no particular order)&#xA;National Parks I have the luck to live in a place that offers endless opportunities to enjoy the outdoors, so my favorite weekend activities are hiking and cycling. When I have a little bit more time, I love exploring the stunning National Parks and Forests that are in Arizona and in the South West.</description>
     </item>
-    
     <item>
       <title>Publications</title>
       <link>https://sbozzolo.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sbozzolo.github.io/publications/</guid>
-      <description>Peer-reviewed publications In chronological order (first is most recent).
-G. Bozzola, C. Chan, V. Paschalidis. Not all spacetime coordinates for general-relativistic ray tracing are created equal. 2023, PRD 108, 8, 084004 (arxiv) G. Bozzola, V. Paschalidis. Can quasi-circular mergers of charged black holes produce extremal black holes?. 2023, PRD 107, 104059 (arxiv) P.\ Espino, G. Bozzola, V.\ Paschalidis, 2023, PRD 107, 104059 (arxiv) R. Luna, G. Bozzola, V. Cardoso, V. Paschalidis, M.</description>
+      <description>Peer-reviewed publications In chronological order (first is most recent).&#xA;G. Bozzola, C. Chan, V. Paschalidis. Not all spacetime coordinates for general-relativistic ray tracing are created equal. 2023, PRD 108, 8, 084004 (arxiv) G. Bozzola, V. Paschalidis. Can quasi-circular mergers of charged black holes produce extremal black holes?. 2023, PRD 107, 104059 (arxiv) P.\ Espino, G. Bozzola, V.\ Paschalidis, 2023, PRD 107, 104059 (arxiv) R. Luna, G. Bozzola, V. Cardoso, V. Paschalidis, M.</description>
     </item>
-    
     <item>
       <title>Research</title>
       <link>https://sbozzolo.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sbozzolo.github.io/research/</guid>
-      <description>The intended audience of this page are specialists (i.e., physicists, astronomers, &amp;hellip;). You can find the version for the general public here.
-Numerical relativity and gravitational wave astronomy Broadly speaking, my research focuses on strongly gravitating systems, such as black holes and neutron stars. I develop and use computational methods and codes to tackle problems in strong gravity and I primarily work in numerical relativity, field that is concerned with finding numerical solutions to the equations of general relativity.</description>
+      <description>The intended audience of this page are specialists (i.e., physicists, astronomers, &amp;hellip;). You can find the version for the general public here.&#xA;Numerical relativity and gravitational wave astronomy Broadly speaking, my research focuses on strongly gravitating systems, such as black holes and neutron stars. I develop and use computational methods and codes to tackle problems in strong gravity and I primarily work in numerical relativity, field that is concerned with finding numerical solutions to the equations of general relativity.</description>
     </item>
-    
     <item>
       <title>Research</title>
       <link>https://sbozzolo.github.io/research_general/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sbozzolo.github.io/research_general/</guid>
-      <description>The intended audience of this page is the general public. You can find the version for specialists here.
-Numerical relativity General relativity is one of the most famous and well-established physical theories. The first formulation is due to Albert Einstein and it is more than 100 years old. Despite the age, it was only with the advent of computers that scientists managed to unlock some of the most ground-braking predictions of the theory, such as detailed models for gravitational waves.</description>
+      <description>The intended audience of this page is the general public. You can find the version for specialists here.&#xA;Numerical relativity General relativity is one of the most famous and well-established physical theories. The first formulation is due to Albert Einstein and it is more than 100 years old. Despite the age, it was only with the advent of computers that scientists managed to unlock some of the most ground-braking predictions of the theory, such as detailed models for gravitational waves.</description>
     </item>
-    
     <item>
       <title>Resume</title>
       <link>https://sbozzolo.github.io/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sbozzolo.github.io/resume/</guid>
-      <description>INTERESTS High-performance computing, (research) software engineering, open source software, open science, community and inclusion.
-EDUCATION 2018&amp;ndash;2023 University of Arizona &amp;mdash; MSc and PhD in Astronomy and Astrophysics (GPA:4/4, Advisor: Prof. Vasileios Paschalidis)
-2015&amp;ndash;2017 University of Milan &amp;mdash; Master in Physics (cum laude, GPA:30/30, Advisor: Prof. Nikolaos Stergioulas)
-2012&amp;ndash;2015 University of Milan &amp;mdash; Bachelor in Physics (cum laude, GPA:29.35/30, Advisor: Prof. Valentino Liberali)
-PEER-REVIEWED PUBLICATIONS (12 total; 10 first author, 2 second author; 2 single author; 2 letters) G.</description>
+      <description>INTERESTS High-performance computing, (research) software engineering, open source software, open science, community and inclusion.&#xA;EDUCATION 2018&amp;ndash;2023 University of Arizona &amp;mdash; MSc and PhD in Astronomy and Astrophysics (GPA:4/4, Advisor: Prof. Vasileios Paschalidis)&#xA;2015&amp;ndash;2017 University of Milan &amp;mdash; Master in Physics (cum laude, GPA:30/30, Advisor: Prof. Nikolaos Stergioulas)&#xA;2012&amp;ndash;2015 University of Milan &amp;mdash; Bachelor in Physics (cum laude, GPA:29.35/30, Advisor: Prof. Valentino Liberali)&#xA;PEER-REVIEWED PUBLICATIONS (12 total; 10 first author, 2 second author; 2 single author; 2 letters) G.</description>
     </item>
-    
     <item>
       <title>Software</title>
       <link>https://sbozzolo.github.io/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sbozzolo.github.io/software/</guid>
-      <description>Scientific codes kuibit kuibit is my biggest project to date. It is a Python library to analyze simulations performed with the Einstein Toolkit. The package takes care of all the low-level details and removes most of the friction in studying simulation outputs.
-motionpicture motionpicture is a tool that simplifies making movies with Python. If you know how to make one frame, with motionpicture you get the entire movie for free. The package supports a plug-in system, so you can easily make movies via command-line.</description>
+      <description>Scientific codes CliMA packages I contribute to several packages at CliMA (primarily ClimaAtmos, ClimaLand, ClimaCore, ClimaAnalysis). While I do a little bit of everything (performance, user interface, physics, reliability, &amp;hellip;), one of my main areas of focus is data in its entire life cycle, from ingestion to post-processing and visualization.&#xA;kuibit kuibit is a large Python library to analyze simulations performed with the Einstein Toolkit. The package takes care of all the low-level details and removes most of the friction in studying simulation outputs.</description>
     </item>
-    
   </channel>
 </rss>

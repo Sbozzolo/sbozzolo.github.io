@@ -45,10 +45,19 @@
 <div id="content">
 <div class="container">
     <h2 id="scientific-codes">Scientific codes</h2>
+<h3 id="clima-packages">CliMA packages</h3>
+<p>I contribute to several packages at <a href="https://github.com/CliMA">CliMA</a> (primarily
+<a href="https://github.com/CliMA/ClimaAtmos.jl">ClimaAtmos</a>,
+<a href="https://github.com/CliMA/ClimaLand.jl">ClimaLand</a>,
+<a href="https://github.com/CliMA/ClimaCore.jl">ClimaCore</a>,
+<a href="https://github.com/CliMA/ClimaAnalysis.jl">ClimaAnalysis</a>). While I do a little
+bit of everything (performance, user interface, physics, reliability, &hellip;), one
+of my main areas of focus is data in its entire life cycle, from ingestion to
+post-processing and visualization.</p>
 <h3 id="kuibit">kuibit</h3>
 <img style="float: center;" src="../media/kuibit.png" width="300">
-<p><a href="https://sbozzolo.github.io/kuibit">kuibit</a> is my biggest project to date. It is
-a Python library to analyze simulations performed with the Einstein Toolkit. The
+<p><a href="https://sbozzolo.github.io/kuibit">kuibit</a> is
+a large Python library to analyze simulations performed with the Einstein Toolkit. The
 package takes care of all the low-level details and removes most of the friction
 in studying simulation outputs.</p>
 <h3 id="motionpicture">motionpicture</h3>
@@ -56,47 +65,48 @@ in studying simulation outputs.</p>
 <p><a href="https://github.com/Sbozzolo/motionpicture">motionpicture</a> is a tool that
 simplifies making movies with Python. If you know how to make one frame, with
 motionpicture you get the entire movie for free. The package supports a plug-in
-system, so you can easily make movies via command-line.</p>
-<h3 id="ciak">ciak</h3>
-<img style="float: center;" src="../media/ciak.png" width="300">
-<p><a href="https://github.com/Sbozzolo/ciak">ciak</a> orchestrates the execution of other
-programs for you. It is a convenient tool to prepare and run analysis of
-simulations. Similarly to <code>motionpicture</code>, its plug-in system promotes code
-reuse.</p>
-<h3 id="jhuki">Jhuki</h3>
-<img style="float: center;" src="../media/jhuki.png" width="300">
-<p>I am slowly developing <a href="https://github.com/Sbozzolo/Jhuki">Jhuki</a>, a Python
-package to prepare parameter files for simulations for the Einstein Toolkit.</p>
-<h3 id="sonoranthorns">SonoranThorns</h3>
-<p><a href="https://github.com/Sbozzolo/SonoranThorns">SonoranThorns</a> is my personal
-collection of Einstein Toolkit thorns. Modules in this repository have been
-thoroughly validated and tested.</p>
-<h3 id="latex-paper-template">LaTeX-paper-template</h3>
-<p>I use GitHub to write my papers, so I prepared a <a href="https://github.com/Sbozzolo/LaTeX-paper-template">template
-repo</a>. The template uses
-GitHub actions to compile images, the paper, and to produce a zipped folder for
-submission to arXiv.</p>
-<h3 id="sphinxcontrib-citations">sphinxcontrib-citations</h3>
-<p><a href="https://sphinx-doc.org">Sphinx</a> is a popular documentation generator for Python
-packages. Citations and references are an important currency in academia, so I
-built
-<a href="https://github.com/Sbozzolo/sphinxcontrib-citations">sphinxcontrib-citations</a>,
-a plugin for Sphinx to highlight the relevance of a software package by
-automatically fetching citations from NASA ADS and generating a Sphinx page that
-lists all the papers that cite the package.</p>
+system, so you can easily make movies via command-line. After all these years, I
+still find <code>motionpicture</code> the easiest way to make animations in Python.</p>
+<!-- ### ciak -->
+<!-- <img style="float: center;" src="../media/ciak.png" width="300"> -->
+<!-- [ciak](https://github.com/Sbozzolo/ciak) orchestrates the execution of other -->
+<!-- programs for you. It is a convenient tool to prepare and run analysis of -->
+<!-- simulations. Similarly to `motionpicture`, its plug-in system promotes code -->
+<!-- reuse. -->
+<!-- ### Jhuki -->
+<!-- <img style="float: center;" src="../media/jhuki.png" width="300"> -->
+<!-- I am slowly developing [Jhuki](https://github.com/Sbozzolo/Jhuki), a Python -->
+<!-- package to prepare parameter files for simulations for the Einstein Toolkit. -->
+<!-- ### SonoranThorns -->
+<!-- [SonoranThorns](https://github.com/Sbozzolo/SonoranThorns) is my personal -->
+<!-- collection of Einstein Toolkit thorns. Modules in this repository have been -->
+<!-- thoroughly validated and tested. -->
+<!-- ### LaTeX-paper-template -->
+<!-- I use GitHub to write my papers, so I prepared a [template -->
+<!-- repo](https://github.com/Sbozzolo/LaTeX-paper-template). The template uses -->
+<!-- GitHub actions to compile images, the paper, and to produce a zipped folder for -->
+<!-- submission to arXiv. -->
+<!-- ### sphinxcontrib-citations -->
+<!-- [Sphinx](https://sphinx-doc.org) is a popular documentation generator for Python -->
+<!-- packages. Citations and references are an important currency in academia, so I -->
+<!-- built -->
+<!-- [sphinxcontrib-citations](https://github.com/Sbozzolo/sphinxcontrib-citations), -->
+<!-- a plugin for Sphinx to highlight the relevance of a software package by -->
+<!-- automatically fetching citations from NASA ADS and generating a Sphinx page that -->
+<!-- lists all the papers that cite the package. -->
 <h2 id="emacs-extensions">Emacs extensions</h2>
 <h3 id="emacs-libvterm">emacs-libvterm</h3>
-<p>I am maintainer of <a href="https://github.com/akermu/emacs-libvterm">emacs-libvterm</a>,
+<p>I help maintaining <a href="https://github.com/akermu/emacs-libvterm">emacs-libvterm</a>,
 the fastest terminal emulator for GNU Emacs. Vterm uses an external library,
 <a href="http://www.leonerd.org.uk/code/libvterm/">libvterm</a>, to provide users with an
 experience that is close to using a full terminal emulator inside Emacs.</p>
-<h3 id="bibslurp">bibslurp</h3>
-<p><a href="https://github.com/sbozzolo/bibslurp">bibslurp</a> is a front-end for accessing
-<a href="https://ui.adsabs.harvard.edu/">adsabs</a> from Emacs. I use it in combination
-with org-mode to maintain a database of papers and reference keys on my laptop.
-I am not the original author of bibslurp, but I forked the project when ADS
-rolled out their new design. My fork uses the official APIs. It works but is
-still rough around the edges.</p>
+<!-- ### bibslurp -->
+<!-- [bibslurp](https://github.com/sbozzolo/bibslurp) is a front-end for accessing -->
+<!-- [adsabs](https://ui.adsabs.harvard.edu/) from Emacs. I use it in combination -->
+<!-- with org-mode to maintain a database of papers and reference keys on my laptop. -->
+<!-- I am not the original author of bibslurp, but I forked the project when ADS -->
+<!-- rolled out their new design. My fork uses the official APIs. It works but is -->
+<!-- still rough around the edges. -->
 <h3 id="ivy-emoji">ivy-emoji</h3>
 <p><a href="https://github.com/sbozzolo/ivy-emoji">ivy-emoji</a> is a small utility for Emacs
 to insert any emoji in a given buffer. It is based on the
