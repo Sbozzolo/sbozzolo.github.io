@@ -4,22 +4,22 @@
     <title>Gabriele Bozzola&#39;s homepage on Gabriele Bozzola</title>
     <link>https://sbozzolo.github.io/</link>
     <description>Recent content in Gabriele Bozzola&#39;s homepage on Gabriele Bozzola</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="https://sbozzolo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://sbozzolo.github.io/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sbozzolo.github.io/talks/</guid>
+      <description>I always enjoy talking about software and science. Get in touch with me (gbozzola@caltech.edu) if you would like to invite me for a talk.&#xA;Research software engineering The Future of Research is code: Embracing Research Software Engineering SCALE 2023 &amp;ndash; How to lower the entry barrier to your scientific software Emacs EmacsConf 2021 &amp;ndash; EmacsConf 2021: telega.el and the Emacs community on Telegram EmacsConf 2020 &amp;ndash; A tour of vterm kuibit / Einstein Toolkit Tutorial: Post-processing Cactus simulations with Python</description>
+    </item>
     <item>
       <title>Compelling reasons to publicly release good scientific software</title>
       <link>https://sbozzolo.github.io/why_release_good_software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sbozzolo.github.io/why_release_good_software/</guid>
       <description>I spend a significant fraction of my time developing scientific software or using codes built by other people. Over the years, I came to the realization that are compelling reasons to write good scientific software and release it publicly. I am going to list them here, and take this as a personal manifesto of how I would like to produce software for science.&#xA;Publicly release&#xA;It is an incentive to produce high-quality software and research You get a lot of free debugging (by the people that use your code) Other people can implement bug fixes/features.</description>
-    </item>
-    <item>
-      <title>Gabriele Bozzola&#39;s homepage</title>
-      <link>https://sbozzolo.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sbozzolo.github.io/about/</guid>
-      <description>About me I am a (Scientific) Software Engineer for the CliMA project at Caltech in Pasadena (CA). At CliMA, we develop robust and accurate open-source models for climate modeling in Julia. I design and implement reliable and user-friendly software solutions to empower researchers to push the state-of-the-art in climate modeling.&#xA;Before taking this role, I completed my PhD in computational astrophysics at the Astronomy Department at The University of Arizona in Tucson (AZ), where I was a NASA Future Investigator for Space Sciences.</description>
     </item>
     <item>
       <title>More about me</title>
@@ -33,7 +33,7 @@
       <link>https://sbozzolo.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sbozzolo.github.io/publications/</guid>
-      <description>Peer-reviewed publications In chronological order (first is most recent).&#xA;G. Bozzola, C. Chan, V. Paschalidis. Not all spacetime coordinates for general-relativistic ray tracing are created equal. 2023, PRD 108, 8, 084004 (arxiv) G. Bozzola, V. Paschalidis. Can quasi-circular mergers of charged black holes produce extremal black holes?. 2023, PRD 107, 104059 (arxiv) P.\ Espino, G. Bozzola, V.\ Paschalidis, 2023, PRD 107, 104059 (arxiv) R. Luna, G. Bozzola, V. Cardoso, V. Paschalidis, M.</description>
+      <description>Peer-reviewed publications In chronological order (first is most recent).&#xA;M. Naseri, G. Bozzola, V. Paschalidis. Exploring pathways to forming twin stars. 2024, PRD 110, 4, 44037084004 (arxiv) G. Bozzola, C. Chan, V. Paschalidis. Not all spacetime coordinates for general-relativistic ray tracing are created equal. 2023, PRD 108, 8, 084004 (arxiv) G. Bozzola, V. Paschalidis. Can quasi-circular mergers of charged black holes produce extremal black holes?. 2023, PRD 107, 104059 (arxiv) P.</description>
     </item>
     <item>
       <title>Research</title>
@@ -61,7 +61,7 @@
       <link>https://sbozzolo.github.io/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sbozzolo.github.io/software/</guid>
-      <description>Scientific codes CliMA packages I contribute to several packages at CliMA (primarily ClimaAtmos, ClimaLand, ClimaCore, ClimaAnalysis). While I do a little bit of everything (performance, user interface, physics, reliability, &amp;hellip;), one of my main areas of focus is data in its entire life cycle, from ingestion to post-processing and visualization.&#xA;kuibit kuibit is a large Python library to analyze simulations performed with the Einstein Toolkit. The package takes care of all the low-level details and removes most of the friction in studying simulation outputs.</description>
+      <description>Scientific codes CliMA packages I develop and contribute to several packages at CliMA (in particular, I designed and authored ClimaAnalysis, ClimaUtilities, ClimaDiagnostics). While I do a little bit of everything (performance, user interface, physics, reliability, &amp;hellip;), one of my main areas of focus is data in its entire life cycle, from ingestion to post-processing and visualization.&#xA;kuibit kuibit is a large Python library to analyze simulations performed with the Einstein Toolkit.</description>
     </item>
   </channel>
 </rss>
