@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang=""><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Software</title>
+    <meta name="description" content="Gabriele Bozzola&#39;s personal website.">
+    <meta name="author" content='Gabriele Bozzola'>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.2/css/bootstrap.min.css" integrity="sha512-rt/SrQ4UNIaGfDyEXZtNcyWvQeOq0QLygHluFQcSjaGB04IxWhal71tKuzP6K8eYXYB6vJV4pHkXcmFGGQ1/0w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.3/css/academicons.min.css" integrity="sha512-vaoopdl+FJahyY2ddhsbDj8yDiRuyUYH/vIjF3z+cBg0sKc07NAQmUYli8volCGlW9OwlQyjVsr7Lh6qAManlw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="/sass/researcher.min.css">
+    <link rel="icon" type="image/ico" href="https://sbozzolo.github.io/favicon.ico">
+    </head>
+
+    <body><div class="container mt-5">
+    <nav class="navbar navbar-expand-sm flex-column flex-sm-row text-nowrap p-0">
+        <a class="navbar-brand mx-0 mr-sm-auto" href="https://sbozzolo.github.io/" title="Gabriele Bozzola">
+          
+          Gabriele Bozzola
+        </a>
+        <div class="navbar-nav flex-row flex-wrap justify-content-center">
+            
+                
+                
+                    <a class="nav-item nav-link" href="/" title="About me">
+                        About me
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/software" title="Software">
+                        Software
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/talks" title="Talks">
+                        Talks
+                    </a>
+                    
+                
+            
+        </div>
+    </nav>
+</div>
+<hr>
+<div id="content">
+<div class="container">
+    <h2 id="scientific-codes">Scientific codes</h2>
+<h3 id="clima-packages">CliMA packages</h3>
+<p>I develop and contribute to several packages at
+<a href="https://github.com/CliMA">CliMA</a> (in particular, I designed and authored
+<a href="https://github.com/CliMA/ClimaAnalysis.jl">ClimaAnalysis</a>,
+<a href="https://github.com/CliMA/ClimaUtilities.jl">ClimaUtilities</a>,
+<a href="https://github.com/CliMA/ClimaDiagnostics.jl">ClimaDiagnostics</a>). While I do a
+little bit of everything (performance, user interface, physics, reliability,
+&hellip;), one of my main areas of focus is data in its entire life cycle, from
+ingestion to post-processing and visualization.</p>
+<h3 id="kuibit">kuibit</h3>
+<img style="float: center;" src="../media/kuibit.png" width="300">
+<p><a href="https://sbozzolo.github.io/kuibit">kuibit</a> is
+a large Python library to analyze simulations performed with the Einstein Toolkit. The
+package takes care of all the low-level details and removes most of the friction
+in studying simulation outputs.</p>
+<h3 id="motionpicture">motionpicture</h3>
+<img style="float: center;" src="../media/mopi.png" width="400">
+<p><a href="https://github.com/Sbozzolo/motionpicture">motionpicture</a> is a tool that
+simplifies making movies with Python. If you know how to make one frame, with
+motionpicture you get the entire movie for free. The package supports a plug-in
+system, so you can easily make movies via command-line. After all these years, I
+still find <code>motionpicture</code> the easiest way to make animations in Python.</p>
+<!-- ### ciak -->
+<!-- <img style="float: center;" src="../media/ciak.png" width="300"> -->
+<!-- [ciak](https://github.com/Sbozzolo/ciak) orchestrates the execution of other -->
+<!-- programs for you. It is a convenient tool to prepare and run analysis of -->
+<!-- simulations. Similarly to `motionpicture`, its plug-in system promotes code -->
+<!-- reuse. -->
+<!-- ### Jhuki -->
+<!-- <img style="float: center;" src="../media/jhuki.png" width="300"> -->
+<!-- I am slowly developing [Jhuki](https://github.com/Sbozzolo/Jhuki), a Python -->
+<!-- package to prepare parameter files for simulations for the Einstein Toolkit. -->
+<!-- ### SonoranThorns -->
+<!-- [SonoranThorns](https://github.com/Sbozzolo/SonoranThorns) is my personal -->
+<!-- collection of Einstein Toolkit thorns. Modules in this repository have been -->
+<!-- thoroughly validated and tested. -->
+<!-- ### LaTeX-paper-template -->
+<!-- I use GitHub to write my papers, so I prepared a [template -->
+<!-- repo](https://github.com/Sbozzolo/LaTeX-paper-template). The template uses -->
+<!-- GitHub actions to compile images, the paper, and to produce a zipped folder for -->
+<!-- submission to arXiv. -->
+<!-- ### sphinxcontrib-citations -->
+<!-- [Sphinx](https://sphinx-doc.org) is a popular documentation generator for Python -->
+<!-- packages. Citations and references are an important currency in academia, so I -->
+<!-- built -->
+<!-- [sphinxcontrib-citations](https://github.com/Sbozzolo/sphinxcontrib-citations), -->
+<!-- a plugin for Sphinx to highlight the relevance of a software package by -->
+<!-- automatically fetching citations from NASA ADS and generating a Sphinx page that -->
+<!-- lists all the papers that cite the package. -->
+<h2 id="emacs-extensions">Emacs extensions</h2>
+<h3 id="emacs-libvterm">emacs-libvterm</h3>
+<p>I help maintaining <a href="https://github.com/akermu/emacs-libvterm">emacs-libvterm</a>,
+the fastest terminal emulator for GNU Emacs. Vterm uses an external library,
+<a href="http://www.leonerd.org.uk/code/libvterm/">libvterm</a>, to provide users with an
+experience that is close to using a full terminal emulator inside Emacs.</p>
+<!-- ### bibslurp -->
+<!-- [bibslurp](https://github.com/sbozzolo/bibslurp) is a front-end for accessing -->
+<!-- [adsabs](https://ui.adsabs.harvard.edu/) from Emacs. I use it in combination -->
+<!-- with org-mode to maintain a database of papers and reference keys on my laptop. -->
+<!-- I am not the original author of bibslurp, but I forked the project when ADS -->
+<!-- rolled out their new design. My fork uses the official APIs. It works but is -->
+<!-- still rough around the edges. -->
+<h3 id="ivy-emoji">ivy-emoji</h3>
+<p><a href="https://github.com/sbozzolo/ivy-emoji">ivy-emoji</a> is a small utility for Emacs
+to insert any emoji in a given buffer. It is based on the
+<a href="https://github.com/abo-abo/swiper">ivy</a> completion framework and it is
+available on MELPA. I use it all the time when I chat on
+<a href="https://github.com/zevlg/telega.el">telega.el</a>.</p>
+
+</div>
+
+        </div><div id="footer" class="mb-5">
+    <hr>
+    
+    <div class="container text-center">
+        
+            <a href="mailto:gabrielebozzola@arizona.edu" class="fas fa-envelope fa-1x" title="E-mail"></a>
+        
+            <a href="https://github.com/Sbozzolo" class="fab fa-github fa-1x" title="GitHub"></a>
+        
+            <a href="https://linkedin.com/in/gabrielebozzola" class="fab fa-linkedin-in fa-1x" title="LinkedIn"></a>
+        
+    </div>
+    
+    
+        <div class="container text-center">
+            <a href="https://sbozzolo.github.io/" title="Copyright (c) 2019-2024, Gabriele Bozzola. Website theme (hugo-researcher) developed by Olivier Roques." ><small>Copyright (c) 2019-2024, Gabriele Bozzola. Website theme (hugo-researcher) developed by Olivier Roques.</small></a>
+        </div>
+    
+</div>
+
+    </body>
+</html>

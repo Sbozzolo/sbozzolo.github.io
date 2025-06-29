@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang=""><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Research</title>
+    <meta name="description" content="Gabriele Bozzola&#39;s personal website.">
+    <meta name="author" content='Gabriele Bozzola'>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.2/css/bootstrap.min.css" integrity="sha512-rt/SrQ4UNIaGfDyEXZtNcyWvQeOq0QLygHluFQcSjaGB04IxWhal71tKuzP6K8eYXYB6vJV4pHkXcmFGGQ1/0w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.3/css/academicons.min.css" integrity="sha512-vaoopdl+FJahyY2ddhsbDj8yDiRuyUYH/vIjF3z+cBg0sKc07NAQmUYli8volCGlW9OwlQyjVsr7Lh6qAManlw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="/sass/researcher.min.css">
+    <link rel="icon" type="image/ico" href="https://sbozzolo.github.io/favicon.ico">
+    </head>
+
+    <body><div class="container mt-5">
+    <nav class="navbar navbar-expand-sm flex-column flex-sm-row text-nowrap p-0">
+        <a class="navbar-brand mx-0 mr-sm-auto" href="https://sbozzolo.github.io/" title="Gabriele Bozzola">
+          
+          Gabriele Bozzola
+        </a>
+        <div class="navbar-nav flex-row flex-wrap justify-content-center">
+            
+                
+                
+                    <a class="nav-item nav-link" href="/" title="About me">
+                        About me
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/software" title="Software">
+                        Software
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/talks" title="Talks">
+                        Talks
+                    </a>
+                    
+                
+            
+        </div>
+    </nav>
+</div>
+<hr>
+<div id="content">
+<div class="container">
+    <style>
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+figure {
+    display: table;
+}
+
+figcaption {
+  font-size: 14px;
+  font-style: italic;
+  text-align: center;
+  display: table-caption;
+  caption-side: bottom;
+}
+</style>
+<p>The intended audience of this page are specialists (i.e., physicists,
+astronomers, &hellip;). You can find the version for the general public
+<a href="../research_general">here</a>.</p>
+<h2 id="numerical-relativity-and-gravitational-wave-astronomy">Numerical relativity and gravitational wave astronomy</h2>
+<p>Broadly speaking, my research focuses on strongly gravitating systems, such as
+black holes and neutron stars. I develop and use computational methods and codes
+to tackle problems in strong gravity and I primarily work in numerical
+relativity, field that is concerned with finding numerical solutions to the
+equations of general relativity. I am deeply interested in using simulations to
+push our physical theories to their limits and learn more about fundamental
+physics. One of the main ways I am doing this is by using gravitational waves to
+interface with observations and experiments. Gravitational waves (detected for
+the first time in 2015) offer a completely new way to study the universe and are
+providing invaluable data to address long standing questions.</p>
+<h2 id="charged-black-holes">Charged black holes</h2>
+<figure class="right">
+    <img style="margin: 2px; margin-top: 25px; " src="../media/charged.png" width="300">
+    <figcaption>Electric field of the remnant left by a binary black hole merger</figcaption>
+</figure>
+<p>Einstein-Maxwell’s theory is the most fundamental description of
+electromagnetism and gravity, and several far-reaching results on black holes
+were found in this context (e.g., the no-hair theorem). Since
+astrophysically-relevant black holes are believed to have negligible electric
+charge, the theory has been mostly confined within the realm of theoretical
+investigation. Consequently, interacting charged black holes represent a largely
+unexplored territory. I apply numerical-relativity techniques to perform
+simulations of such systems. I mostly focus on systems with two black holes with
+extreme non-linear interaction. One main target of this investigation is
+quasi-circular inspirals of black holes, which are possible sources for current
+and future gravitational-wave detectors. I developed the formalism and codes to
+perform long-term and stable simulations of these charged binary black holes.
+Among the most important new components, <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.104044">I
+built</a>
+<code>TwoChargedPunctures</code>, and <code>QuasiLocalMeasuresEM</code>, which provide a quasi-local
+description of horizons in numerical relativity. Using <a href="https://einsteintoolkit.org"><code>Einstein Toolkit</code></a> and the
+<a href="https://zenodo.org/record/5520862">canuda</a> codes, I performed the <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.041103">first
+general-relativistic simulations of quasi-circular inspirals of charged black
+holes from constraint-satisfying initial
+data</a>.
+From these calculations, I extracted gravitational waves and placed the first
+constraints on black-hole charge with LIGO/Virgo data.</p>
+<p>I believe that charged black holes are a perfect laboratory where to learn about
+the interplay between extreme gravitational and electromagnetic fields, the
+understanding of which could be relevant also for other astrophysical
+applications. For instance, I showed that <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.071101">charge does not matter in
+ultrarelativistic collisions of black
+holes</a>,
+result that has implications for the formation of microscopic black holes in
+particle accelerators and that continues in a new existing direction a line of
+research that started a decade ago. Moreover, the mathematical framework used to
+describe charged black holes can be employed for a large variety of different
+physical systems, such as modified theories of gravity.</p>
+<h2 id="rotating-relativistic-stars">Rotating, relativistic stars</h2>
+<figure class="right">
+    <img style="margin: 2px;" src="../media/hybrid_star.png" width="250">
+    <figcaption>Special neutron star with a quark core</figcaption>
+</figure>
+<p>The study of neutron stars brings together several different fields ranging from
+astrophysics and gravitation to particle and nuclear physics. My research
+focuses on rotating neutron stars, the properties of which are significantly
+different compared to the static case. I studied stability properties of
+differentially rotating compact stars and <a href="https://academic.oup.com/mnras/article/474/3/3557/4655057">found new universal
+relations</a>.</p>
+<p>Astronomical observations of compact stars are an interesting avenue to
+constrain the equation of state of dense nuclear matter. I am particularly
+interested in equations of state with a phase transition, from hadronic matter
+to quarks, which give rise to <em>hybrid stars</em>. I studied <a href="https://link.springer.com/article/10.1140/epja/i2019-12831-2">rotating hybrid
+stars</a> and found
+that some universal relations do not hold anymore.</p>
+<p>I am generally interested in dynamical-spacetime general-relativistic
+magnetohydrodynamic simulations (GRMHD), and I contributed to extend
+<code>IllinoisGRMHD</code> to support finite temperature, realistic equations of states.</p>
+<h2 id="accretion-onto-binary-black-holes">Accretion onto binary black holes</h2>
+<figure class="left">
+    <img style="margin: 2px; margin-top: 15px; margin-right: 15px;" src="../media/accretion_binary.png" width="250">
+    <figcaption>Merger of two black holes surrounded by hot gas</figcaption>
+</figure>
+<p>The future is going to be exciting. In the late 2030s, the Laser Interferometer
+Space Antenna (LISA) will detect for the first time gravitational waves from
+mergers of supermassive black holes. Most galaxies harbor such black holes at
+their centers, so mergers of supermassive black holes will likely have
+electromagnetic afterglows that are due to the hot plasma inspiraling towards
+the horizons. We are also building new powerful telescopes that will be able to
+detect such transients. Coincident detection of gravitational and
+electromagnetic waves from supermassive black holes (&ldquo;multimessenger&rdquo;) will
+enable leaps in several areas of astronomy, cosmology, and fundamental physics.
+Currently, our theoretical model for the electromagnetic signals near merger are
+not refined enough, and we will not be able to extract physical quantities from
+future observations. To advance our models, I am developing a full general
+relativistic ray tracing and radiation transfer code to find accurate
+observational signatures for systems near merger.</p>
+<h2 id="high-performance-computing-and-software-development">High-performance computing and software development</h2>
+<p>Numerical relativity and gravitational-wave astronomy are fields driven by data
+and computation, hence software plays an important part of my life.
+General-relativistic simulations are computationally demanding, routinely
+requiring weeks or months to be completed. For this reason, I have deep interest
+and solid expertise in high-performance and parallel computing. In my day-to-day
+life, I develop codes that run on thousands of processors on the most powerful
+supercomputers in US and Europe. To be honest, this interest is only a small
+subset of my broader and long-standing passion for programming and computer
+science. I strongly believe in open-source software, and I develop software to
+serve the community, making sure that my projects are well documented and
+accessible. You can find a list of software I develop or maintain in the
+<a href="../software">Software</a> page.</p>
+
+</div>
+
+        </div><div id="footer" class="mb-5">
+    <hr>
+    
+    <div class="container text-center">
+        
+            <a href="mailto:gabrielebozzola@arizona.edu" class="fas fa-envelope fa-1x" title="E-mail"></a>
+        
+            <a href="https://github.com/Sbozzolo" class="fab fa-github fa-1x" title="GitHub"></a>
+        
+            <a href="https://linkedin.com/in/gabrielebozzola" class="fab fa-linkedin-in fa-1x" title="LinkedIn"></a>
+        
+    </div>
+    
+    
+        <div class="container text-center">
+            <a href="https://sbozzolo.github.io/" title="Copyright (c) 2019-2024, Gabriele Bozzola. Website theme (hugo-researcher) developed by Olivier Roques." ><small>Copyright (c) 2019-2024, Gabriele Bozzola. Website theme (hugo-researcher) developed by Olivier Roques.</small></a>
+        </div>
+    
+</div>
+
+    </body>
+</html>
